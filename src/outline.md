@@ -37,15 +37,7 @@ applications.
 - Basic data validation and constraints
 - Best Practices for DML Operations
 
-### Chapter 4: Data Control Language (DCL)
-
-- Understanding PostgreSQL's security model
-- Creating and managing users and roles
-- Granting and revoking privileges
-- Best practices for database security
-- Common DCL scenarios
-
-### Chapter 5: Data Query Language (DQL)
+### Chapter 4: Data Query Language (DQL)
 
 - Introduction to SQL queries
 - Basic SELECT statements (WHERE, FROM, etc.)
@@ -53,13 +45,21 @@ applications.
 - Joining tables (INNER JOIN, LEFT JOIN, etc.)
 - Using aggregate functions and subqueries
 
-### Chapter 6: Transaction Control Language (TCL)
+### Chapter 5: Transaction Control Language (TCL)
 
 - Understanding transactions and their importance
 - Using COMMIT, ROLLBACK, and SAVEPOINT
 - Managing transactions in PostgreSQL
 - Best practices for transaction management
 - Common TCL scenarios
+
+### Chapter 6: Data Control Language (DCL)
+
+- Understanding PostgreSQL's security model
+- Creating and managing users and roles
+- Granting and revoking privileges
+- Best practices for database security
+- Common DCL scenarios
 
 ### Chapter 7: Database Design and Normalization
 
