@@ -27,17 +27,15 @@ applications.
 
 - Creating databases and tables
 - Understanding primary and foreign keys
-- Creating indexes and constraints
 - Altering and dropping database objects
 - Best practices for database design
 
 ### Chapter 3: Data Manipulation Language (DML)
 
 - INSERT, UPDATE, and DELETE statements
-- Understanding transactions and commit/rollback
 - Using views and materialized views
 - Basic data validation and constraints
-- Examples of DML operations
+- Best Practices for DML Operations
 
 ### Chapter 4: Data Control Language (DCL)
 
